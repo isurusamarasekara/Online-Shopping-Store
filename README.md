@@ -1,5 +1,4 @@
-# Project for OOP Module (2nd Year 1st Semester)
-
+# JAVA based online shopping store
 # Project Name :
     Online Shopping Store
 
@@ -14,5 +13,8 @@
     HTML
     CSS
 
+# Module : 
+    OOP : Object Oriented Programming (2nd Year 1st Semester)
+    
 # Project Group ID :
     120
