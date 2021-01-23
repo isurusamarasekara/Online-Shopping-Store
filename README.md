@@ -1,4 +1,4 @@
-# JAVA based Online Shopping Store
+# JAVA based Online Shopping Store (Ecommerce Website)
 # Project Name :
     Online Shopping Store
 
